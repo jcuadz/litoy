@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 fk
 d
@@ -13,3 +14,6 @@ f
 f
 
 f
+=======
+hello new toy
+>>>>>>> cdb04461e1fc7434039e2b23d00e6fc03f6059c8
